@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+.caja{
+    background: white;
+    margin: 10px;
+    
+    margin-left: auto;
+    margin-right:auto ;
+    width: 600px;
+}
+#div1{
+    padding-top: 13px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+#div2{
+    margin-top: 20px;
+}
+
+#icon1{
+    width:30px;
+    
+}
+#icon2{
+    width:30px;
+    float: right;
+}
+#icon3{
+    width:30px;
+    margin-left: 10px;
+}
+#icon4{
+    width:30px;
+    margin-left: 10px;
+
+}
+#icon5{
+    width:30px;
+    margin-left: 10px;
+}
+#icon6{
+    width:30px;
+    float: right;
+    margin-right: 10px;
+}
+#div1_1{
+    display: inline-block;
+}
+#foto{
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#div2_1{
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 21px;
+}
+#div2_2{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 21px;
+    padding-bottom: 30px;
+}
