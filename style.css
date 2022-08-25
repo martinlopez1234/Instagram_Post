@@ -1,3 +1,6 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
 body{
     background-color: black;
 }
@@ -57,12 +60,12 @@ body{
 }
 #div2_1{
     margin-left: 10px;
-    margin-top: 30px;
+    margin-top: 10px;
     font-size: 21px;
 }
 #div2_2{
     margin-left: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
     font-size: 21px;
     padding-bottom: 30px;
 }
